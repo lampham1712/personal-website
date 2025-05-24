@@ -1,0 +1,17 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Deploy my first website",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo `No build step required for static site` && exit 0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify",
+    "github",
+    "static-site "
+  ],
+  "author": "Pham Sy Lam",
+  "license": "ISC"
+}
